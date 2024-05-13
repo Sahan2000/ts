@@ -51,4 +51,4 @@ function printInfo(): void {
 
 printInfo();
 
-export{}
+export default{}

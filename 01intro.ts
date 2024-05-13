@@ -20,4 +20,4 @@ function greet(person, date){
 
 greet("John", "2024-05-03");
 
-export {}
+export default{}

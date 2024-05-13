@@ -47,4 +47,4 @@ function windowStatus(status: "open"|"close"){
 windowStatus("close");
 windowStatus("open");
 
-export{}
+export default{}

@@ -11,4 +11,4 @@ const user = {
 
 printUser(user);
 
-export{}
+export default{}

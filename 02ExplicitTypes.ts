@@ -24,4 +24,4 @@ message = 'd';
 
 //message = 10;
 
-export{}
+export default{}

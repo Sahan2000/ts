@@ -21,4 +21,4 @@ let name: Array<string> = ['John', 'Steve'];
 
 
 
-export{}
+export default{}

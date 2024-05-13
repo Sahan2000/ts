@@ -54,4 +54,4 @@ print(10);
 print("Sahan");
 // print(true); //Illegal
 
-export {}
+export default{}

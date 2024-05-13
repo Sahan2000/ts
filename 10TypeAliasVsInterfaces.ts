@@ -39,3 +39,5 @@ type love = {
 // type love = { // Illegal; duplicate identifier
 //     duration: number
 // }
+
+export default{}

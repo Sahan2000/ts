@@ -9,3 +9,5 @@ let user: User = {
     name: 'Pasan',
     // creditCardNumber: 4567894325
 }
+
+export default{}

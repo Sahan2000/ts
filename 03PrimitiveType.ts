@@ -25,4 +25,4 @@ let x: any = 10;
 x = 'hello';
 x = true;
 
-export{}
+export default{}
